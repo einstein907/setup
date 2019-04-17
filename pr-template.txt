@@ -1,0 +1,19 @@
+JIRA-123 STORY DEFINITION HERE
+
+### Acceptance Criteria
+[ ] AC1
+[X] AC2
+
+## Definition of Done
+[ ] Appropriate tests written
+[ ] Passes all tests (no google maps error)
+[ ] Backwards Compatible
+[ ] Additional documentation added (Confluence & Readme) as needed
+[ ] Works on big screen
+[ ] Works on small screen
+
+## Configuration changes
+none
+
+### Commits
+JIRA-123 initial commit
