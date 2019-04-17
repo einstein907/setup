@@ -115,13 +115,3 @@ export NVM_DIR="$HOME/.nvm"
 alias ngrok="~/ngrok"
 
 export NODE_PATH="/usr/local/lib/node_modules"
-
-#configure Go
-export GOPATH=$HOME/go
-export GOROOT="$(brew --prefix go@1.10)/libexec"
-export GOROOT="$(brew --prefix go)/libexec"
-export PATH="$PATH:${GOPATH}/bin:${GOROOT}/bin"
-
-export SCOPE_ENV=jenna
-export NODE_ENV=nomock
-export PATH="/usr/local/opt/node@10/bin:$PATH"
