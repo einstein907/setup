@@ -9,6 +9,10 @@ How I personally set up my iterm2, .zshrc file, etc.
 - VS Code
 - Gitkraken
 - Atom
+- Postman
+- Xcode
+- Zepplin
+- Be Focused
 
 ## Personalizing VS Code
 
